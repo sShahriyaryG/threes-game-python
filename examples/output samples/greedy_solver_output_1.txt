@@ -1,0 +1,6 @@
+LULLL
+6       1       0       2
+12      3       0       0
+3       6       3       0
+2       0       1       0
+The partial score is 54.

@@ -1,0 +1,6 @@
+DRLDDL
+2       0       0       0
+1       0       1       0
+3       24      0       3
+3       12      2       6
+The partial score is 126.
