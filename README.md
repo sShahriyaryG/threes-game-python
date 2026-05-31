@@ -44,7 +44,7 @@ This project is a Python implementation of the puzzle game **Threes**. It can re
 Run:
 
 ```bash
-python replay_given_moves.py
+python sources/replay_given_moves.py
 ```
 
 Example input:
@@ -84,7 +84,7 @@ The partial score is 45.
 Run:
 
 ```bash
-python greedy_strategy_solver.py
+python sources/greedy_strategy_solver.py
 ```
 
 Example input:
@@ -127,7 +127,7 @@ The partial score is 54.
 Run:
 
 ```bash
-python cycle_strategy_solver.py
+python sources/cycle_strategy_solver.py
 ```
 
 Example input:
@@ -164,6 +164,20 @@ LLLLL
 3       6       1       0
 The partial score is 45.
 ```
+
+## Demo Screenshots
+
+### Replay Mode
+
+![Replay demo](screenshots/replay_demo.png)
+
+### Greedy Solver
+
+![Greedy solver demo](screenshots/greedy_solver_demo.png)
+
+### Fixed-Cycle Solver
+
+![Cycle solver demo](screenshots/cycle_solver_demo.png)
 
 ## Solver Strategies
 
